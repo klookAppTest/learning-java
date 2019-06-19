@@ -26,7 +26,7 @@ public class MyXPlus {
 			n += 6;//步长为6
 			
 			System.out.println(n);
-			
+			//ssss
 	}
 
 }
