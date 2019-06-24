@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">崽崽</string>
+    <string name="user_name">请输入用户名</string>
+    <string name="passwd">请输入密码</string>
+    <string name="submit">提交</string>
+    <string name="textview">TextView</string>
+</resources>

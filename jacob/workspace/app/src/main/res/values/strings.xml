@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">demo</string>
-    <string name="user_name">请输入用户名</string>
-    <string name="submit">登录</string>
-    <string name="pass_word">请输入密码</string>
-</resources>
